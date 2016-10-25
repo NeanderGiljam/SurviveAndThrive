@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MainCharacter_Hair_Material
+  m_Shader: {fileID: 4800000, guid: 50605b55cfbad1443a567a2a786ba268, type: 3}
+  m_ShaderKeywords: _NODE_2978_ON
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Texture
+        second:
+          m_Texture: {fileID: 2800000, guid: a5849a90aa431dc4bb7e546f5080103d, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_6995
+        second:
+          m_Texture: {fileID: 2800000, guid: a5849a90aa431dc4bb7e546f5080103d, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Glossiness
+        second: .5
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _Rim_Strength
+        second: .200000003
+      data:
+        first:
+          name: _node_2978
+        second: 1
+      data:
+        first:
+          name: _node_9859
+        second: 0
+      data:
+        first:
+          name: _node_1520
+        second: .150000006
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _node_6150
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _node_6613
+        second: {r: .815686345, g: .521568656, b: .329411775, a: 1}
+      data:
+        first:
+          name: _node_3637
+        second: {r: .411764681, g: .354108989, b: .281574368, a: 1}
+      data:
+        first:
+          name: _node_580
+        second: {r: 0, g: .917241275, b: 1, a: 1}

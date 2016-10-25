@@ -1,0 +1,439 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &129402
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 448984}
+  - 114: {fileID: 11417210}
+  m_Layer: 0
+  m_Name: GameItemDatabase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &448984
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 129402}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11417210
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 129402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336e62c55d4c32e4f9117ae023ad0592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  biomeData:
+  - biomeType: 502
+    biomeTexture: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    biomeColor: {r: 1, g: 1, b: 1, a: 1}
+  - biomeType: 300
+    biomeTexture: {fileID: 2800000, guid: 3d069113556184b4bbb608987326c066, type: 3}
+    biomeColor: {r: 1, g: 1, b: 1, a: 1}
+  - biomeType: 1
+    biomeTexture: {fileID: 2800000, guid: b1bdde45abc49024b91d5dc7ce5861f4, type: 3}
+    biomeColor: {r: 1, g: 1, b: 1, a: 1}
+  - biomeType: 100
+    biomeTexture: {fileID: 2800000, guid: b1bdde45abc49024b91d5dc7ce5861f4, type: 3}
+    biomeColor: {r: 1, g: 1, b: 1, a: 1}
+  defaultItem: {fileID: 11488428, guid: c00aa9c621565d649a7e9e0b4c977a79, type: 2}
+  gameItems:
+  - {fileID: 11488428, guid: c00aa9c621565d649a7e9e0b4c977a79, type: 2}
+  - {fileID: 11426898, guid: 415617355cf17d943a08122a822f1755, type: 2}
+  - {fileID: 11460890, guid: 1dee9edfc50b8884a97d40bc5245149c, type: 2}
+  - {fileID: 11447112, guid: 20d006c6c6297754ab186cd2d00485cf, type: 2}
+  - {fileID: 11408716, guid: 6aaa9f215a9460545a904f4423025df6, type: 2}
+  - {fileID: 11468720, guid: c989b53b373371440b21de4bebe7006f, type: 2}
+  - {fileID: 11431094, guid: 3623aa9859670654c88938bf36c7ae30, type: 2}
+  - {fileID: 11434686, guid: 92b1f04e39ea7eb409b758a7bbcb21a4, type: 2}
+  - {fileID: 11413186, guid: 14285ae40f07076469a640d5bac2a9f6, type: 2}
+  - {fileID: 11419900, guid: 7ccc96f695f86794596e1ce71590a8c5, type: 2}
+  - {fileID: 11441822, guid: e16ca9afac3fddc4688b10bbed0daba0, type: 2}
+  - {fileID: 11425534, guid: 8bb53ca62c0a73a4390c7fde63f20e24, type: 2}
+  - {fileID: 11451600, guid: 31243df36c91283479cf3089368d04a8, type: 2}
+  - {fileID: 11496466, guid: 52b46db392dcbf74b9b96b7266cd05c6, type: 2}
+  - {fileID: 11497080, guid: 50f61ae3dfc5c57458c4bc6ce961cfff, type: 2}
+  - {fileID: 11427130, guid: 5d481926444b153439647d3c1b80049b, type: 2}
+  - {fileID: 11468966, guid: 93c8960a8927b73439111d55adaa2b39, type: 2}
+  - {fileID: 11454284, guid: d3d2f443e50b5844da673fdf67605817, type: 2}
+  - {fileID: 11420480, guid: 6104371be700c404ab62de9d11111119, type: 2}
+  - {fileID: 11486442, guid: 783a786c1bac2e746b3e5a6a2bda8d36, type: 2}
+  - {fileID: 11406526, guid: 98f0dc6d9fea1a94e9e9a0a78f6985a9, type: 2}
+  - {fileID: 11484778, guid: 5b4c4af1cc9fae3499e27b7223f91ec2, type: 2}
+  - {fileID: 11498070, guid: 32c50cc1db33433489c2f37df5acb177, type: 2}
+  - {fileID: 11401368, guid: 86377c0a653705b49842230d0bb9689c, type: 2}
+  - {fileID: 11430154, guid: ad3e5a1a22cc22b4a8f14fc5b7f6ba88, type: 2}
+  - {fileID: 11497660, guid: fac8f3fa4a44bd549ba499a9f0d0e8b0, type: 2}
+  - {fileID: 11420120, guid: 67435d1f9473e644b83307a66119df64, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: items.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeObjects.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeTextures.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[0].biomeObjects.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeTextures.Array.data[0].biomeObjects.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeTextures.Array.data[1].biomeType
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeTextures.Array.data[2].biomeType
+      value: 502
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeTextures.Array.data[0].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 8ccd057b6bc75744fa28e54f146fecea, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeTextures.Array.data[1].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 3d069113556184b4bbb608987326c066, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeTextures.Array.data[2].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeTextures.Array.data[0].biomeObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 164894, guid: 54d0f96e233d97e478d6ea56938836e1, type: 2}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[1].biomeType
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[2].biomeType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[0].biomeObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 109978, guid: c841989591d112e42b12bb06f00a5a98, type: 2}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[0].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[1].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 3d069113556184b4bbb608987326c066, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[2].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: b1bdde45abc49024b91d5dc7ce5861f4, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[3].biomeType
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[3].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: b1bdde45abc49024b91d5dc7ce5861f4, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[4].biomeType
+      value: 400
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[4].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[5].biomeType
+      value: 502
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[5].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[6].biomeType
+      value: 502
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[6].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[7].biomeType
+      value: 502
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[7].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[8].biomeType
+      value: 502
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[8].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[9].biomeType
+      value: 502
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[9].biomeTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 557854c1c5487974b91ca6ad3d4f59e8, type: 3}
+    - target: {fileID: 0}
+      propertyPath: items.Array.data[0]
+      value: 
+      objectReference: {fileID: 11466906, guid: c841989591d112e42b12bb06f00a5a98,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: items.Array.data[1]
+      value: 
+      objectReference: {fileID: 11466906, guid: 94e771381f396334a929f659a3352a2c,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: defaultItem
+      value: 
+      objectReference: {fileID: 11488428, guid: c00aa9c621565d649a7e9e0b4c977a79,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[0]
+      value: 
+      objectReference: {fileID: 11488428, guid: c00aa9c621565d649a7e9e0b4c977a79,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[1]
+      value: 
+      objectReference: {fileID: 11426898, guid: 415617355cf17d943a08122a822f1755,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[2]
+      value: 
+      objectReference: {fileID: 11439836, guid: 32c50cc1db33433489c2f37df5acb177,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[3]
+      value: 
+      objectReference: {fileID: 11444580, guid: 38755eebe18f4324488eb45f32966380,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[0].biomeColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[0].biomeColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[0].biomeColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[1].biomeColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[1].biomeColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[1].biomeColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[2].biomeColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[2].biomeColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[2].biomeColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[3].biomeColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[3].biomeColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[3].biomeColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[2].biomeColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[1].biomeColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[0].biomeColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[3].biomeColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: biomeData.Array.data[0].biomeType
+      value: 502
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[4]
+      value: 
+      objectReference: {fileID: 11426406, guid: 9c28db165190d5a41b0f1537611dacec,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[5]
+      value: 
+      objectReference: {fileID: 11405348, guid: 6aaa9f215a9460545a904f4423025df6,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[6]
+      value: 
+      objectReference: {fileID: 11413322, guid: c989b53b373371440b21de4bebe7006f,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[7]
+      value: 
+      objectReference: {fileID: 11496548, guid: 3623aa9859670654c88938bf36c7ae30,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[8]
+      value: 
+      objectReference: {fileID: 11428540, guid: 4f40e8685869bff42b0b55a2d3985c8d,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[9]
+      value: 
+      objectReference: {fileID: 11423862, guid: 9af078de2e08f81448b8d403f5d07736,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[10]
+      value: 
+      objectReference: {fileID: 11443754, guid: b19ef348ad193904db00a339fd1ccf7e,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[11]
+      value: 
+      objectReference: {fileID: 11432022, guid: d3fc8020d912caa449133e350f8c96a7,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[12]
+      value: 
+      objectReference: {fileID: 11479038, guid: e16ca9afac3fddc4688b10bbed0daba0,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[13]
+      value: 
+      objectReference: {fileID: 11467516, guid: 8ecdd655c5894e04cbe843ad9af75976,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[14]
+      value: 
+      objectReference: {fileID: 11478558, guid: 31243df36c91283479cf3089368d04a8,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[15]
+      value: 
+      objectReference: {fileID: 11449984, guid: 52b46db392dcbf74b9b96b7266cd05c6,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[16]
+      value: 
+      objectReference: {fileID: 11450438, guid: 50f61ae3dfc5c57458c4bc6ce961cfff,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[17]
+      value: 
+      objectReference: {fileID: 11452704, guid: 5d481926444b153439647d3c1b80049b,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[18]
+      value: 
+      objectReference: {fileID: 11492558, guid: 93c8960a8927b73439111d55adaa2b39,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[19]
+      value: 
+      objectReference: {fileID: 11480260, guid: d3d2f443e50b5844da673fdf67605817,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[20]
+      value: 
+      objectReference: {fileID: 11489438, guid: 6104371be700c404ab62de9d11111119,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[21]
+      value: 
+      objectReference: {fileID: 11422462, guid: dfd3560b4b713604687107db8df64d28,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[22]
+      value: 
+      objectReference: {fileID: 11456080, guid: c9d86906243f22d4f8f0934a2c654786,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[23]
+      value: 
+      objectReference: {fileID: 11425642, guid: 8a7856cd40cb34045a918beb14d7f8cb,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[24]
+      value: 
+      objectReference: {fileID: 11412536, guid: d9c309aab7cfab549b0f1d0ae4e7a75e,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: gameItems.Array.data[25]
+      value: 
+      objectReference: {fileID: 11420120, guid: 67435d1f9473e644b83307a66119df64,
+        type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 129402}
+  m_IsPrefabParent: 1

@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Graeydeer_Body
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: All_CTRL_GRP
+    m_Weight: 0
+  - m_Path: All_CTRL_GRP/Mid_Root_CTRLGRP
+    m_Weight: 0
+  - m_Path: All_CTRL_GRP/Mid_Root_CTRLGRP/Mid_Root_CTRL
+    m_Weight: 0
+  - m_Path: All_CTRL_GRP/Mid_Root_CTRLGRP/Mid_Root_CTRL/Mid_Butt_Rotation_CTRLGRP
+    m_Weight: 0
+  - m_Path: All_CTRL_GRP/Mid_Root_CTRLGRP/Mid_Root_CTRL/Mid_Butt_Rotation_CTRLGRP/Mid_Butt_Rotation_CTRL
+    m_Weight: 0
+  - m_Path: GreyDeer
+    m_Weight: 0
+  - m_Path: GreyDeer/EyePlanes_L
+    m_Weight: 0
+  - m_Path: GreyDeer/EyePlanes_R
+    m_Weight: 0
+  - m_Path: GreyDeer/Main_Body_Mesh
+    m_Weight: 0
+  - m_Path: GreyDeer/Mesh_Antlers
+    m_Weight: 0
+  - m_Path: GreyDeer/Mesh_Antlers/Mesh_Antler_Left
+    m_Weight: 0
+  - m_Path: GreyDeer/Mesh_Antlers/Mesh_Antler_Right
+    m_Weight: 0
+  - m_Path: Mid_Root_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Left_Back_Leg_Base_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Left_Back_Leg_Base_JNT/Left_Back_Leg_Knee_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Left_Back_Leg_Base_JNT/Left_Back_Leg_Knee_JNT/Left_Back_Leg_Ankle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Left_Back_Leg_Base_JNT/Left_Back_Leg_Knee_JNT/Left_Back_Leg_Ankle_JNT/Left_Back_Leg_Hoof_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Left_Back_Leg_Base_JNT/Left_Back_Leg_Knee_JNT/Left_Back_Leg_Ankle_JNT/Left_Back_Leg_Hoof_JNT/Left_Back_Leg_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Butt_Tail_Base_JNT
+    m_Weight: 0
+  - m_Path: Mid_Root_JNT/Mid_Butt_Tail_Base_JNT/Mid_Butt_Tail_Middle_JNT
+    m_Weight: 0
+  - m_Path: Mid_Root_JNT/Mid_Butt_Tail_Base_JNT/Mid_Butt_Tail_Middle_JNT/Mid_Butt_Tail_End_JNT
+    m_Weight: 0
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_01_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_01_JNT/Left_Front_Leg_Ankle_Hair_01_Middle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_01_JNT/Left_Front_Leg_Ankle_Hair_01_Middle_JNT/Left_Front_Leg_Ankle_Hair_01_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_02_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_02_JNT/Left_Front_Leg_Ankle_Hair_02_Middle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_02_JNT/Left_Front_Leg_Ankle_Hair_02_Middle_JNT/Left_Front_Leg_Ankle_Hair_02_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_03_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_03_JNT/Left_Front_Leg_Ankle_Hair_03_Middle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Ankle_Hair_03_JNT/Left_Front_Leg_Ankle_Hair_03_Middle_JNT/Left_Front_Leg_Ankle_Hair_03_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Left_Front_Leg_Shoulder_JNT/Left_Front_Leg_Base_JNT/Left_Front_Leg_Knee_JNT/Left_Front_Leg_Ankle_JNT/Left_Front_Leg_Hoof_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Chest_02_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Chest_02_JNT/Mid_Chest_02_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Chest_03_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Chest_03_JNT/Mid_Chest_03_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Chest_04_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Chest_04_JNT/Mid_Chest_04_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Chest_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Chest_JNT/Mid_Chest_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Left_Ear_Base_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Left_Ear_Base_JNT/Left_Ear_02_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Left_Ear_Base_JNT/Left_Ear_02_JNT/Left_Ear_03_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Left_Ear_Base_JNT/Left_Ear_02_JNT/Left_Ear_03_JNT/Left_Ear_04_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Left_Ear_Base_JNT/Left_Ear_02_JNT/Left_Ear_03_JNT/Left_Ear_04_JNT/Left_Ear_05_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Left_Ear_Base_JNT/Left_Ear_02_JNT/Left_Ear_03_JNT/Left_Ear_04_JNT/Left_Ear_05_JNT/Left_Ear_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Mid_Head_Jaw_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Mid_Head_Jaw_JNT/Mid_Head_Jaw_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Mid_Spine_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Right_Ear_Base_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Right_Ear_Base_JNT/Right_Ear_02_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Right_Ear_Base_JNT/Right_Ear_02_JNT/Right_Ear_03_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Right_Ear_Base_JNT/Right_Ear_02_JNT/Right_Ear_03_JNT/Right_Ear_04_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Right_Ear_Base_JNT/Right_Ear_02_JNT/Right_Ear_03_JNT/Right_Ear_04_JNT/Right_Ear_05_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Mid_Spine_05_Chest_JNT/Mid_Spine_06_JNT/Mid_Spine_Neck_JNT/Mid_Spine_Head_JNT/Right_Ear_Base_JNT/Right_Ear_02_JNT/Right_Ear_03_JNT/Right_Ear_04_JNT/Right_Ear_05_JNT/Right_Ear_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_01_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_01_JNT/Right_Front_Leg_Ankle_Hair_01_Middle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_01_JNT/Right_Front_Leg_Ankle_Hair_01_Middle_JNT/Right_Front_Leg_Ankle_Hair_01_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_02_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_02_JNT/Right_Front_Leg_Ankle_Hair_02_Middle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_02_JNT/Right_Front_Leg_Ankle_Hair_02_Middle_JNT/Right_Front_Leg_Ankle_Hair_02_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_03_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_03_JNT/Right_Front_Leg_Ankle_Hair_03_Middle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Ankle_Hair_03_JNT/Right_Front_Leg_Ankle_Hair_03_Middle_JNT/Right_Front_Leg_Ankle_Hair_03_End_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Mid_Spine_02_JNT/Mid_Spine_03_JNT/Mid_Spine_04_JNT/Right_Front_Leg_Shoulder_JNT/Right_Front_Leg_Base_JNT/Right_Front_Leg_Knee_JNT/Right_Front_Leg_Ankle_JNT/Right_Front_Leg_Hoof_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Right_Back_Leg_Base_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Right_Back_Leg_Base_JNT/Right_Back_Leg_Knee_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Right_Back_Leg_Base_JNT/Right_Back_Leg_Knee_JNT/Right_Back_Leg_Ankle_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Right_Back_Leg_Base_JNT/Right_Back_Leg_Knee_JNT/Right_Back_Leg_Ankle_JNT/Right_Back_Leg_Hoof_JNT
+    m_Weight: 1
+  - m_Path: Mid_Root_JNT/Right_Back_Leg_Base_JNT/Right_Back_Leg_Knee_JNT/Right_Back_Leg_Ankle_JNT/Right_Back_Leg_Hoof_JNT/Right_Back_Leg_End_JNT
+    m_Weight: 1

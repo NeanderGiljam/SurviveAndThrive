@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: ea7bcb93256716a4a97f1571ee08a022
+timeCreated: 1446737174
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: col_body
+    100002: col_head
+    100004: col_lowerleg_fl
+    100006: col_lowerleg_fr
+    100008: col_lowerleg_rl
+    100010: col_lowerleg_rr
+    100012: col_middleleg_fl
+    100014: col_middleleg_fr
+    100016: col_middleleg_rl
+    100018: col_middleleg_rr
+    100020: col_upperleg_fl
+    100022: col_upperleg_fr
+    100024: col_upperleg_rl
+    100026: col_upperleg_rr
+    100028: //RootNode
+    400000: col_body
+    400002: col_head
+    400004: col_lowerleg_fl
+    400006: col_lowerleg_fr
+    400008: col_lowerleg_rl
+    400010: col_lowerleg_rr
+    400012: col_middleleg_fl
+    400014: col_middleleg_fr
+    400016: col_middleleg_rl
+    400018: col_middleleg_rr
+    400020: col_upperleg_fl
+    400022: col_upperleg_fr
+    400024: col_upperleg_rl
+    400026: col_upperleg_rr
+    400028: //RootNode
+    2300000: col_body
+    2300002: col_head
+    2300004: col_lowerleg_fl
+    2300006: col_lowerleg_fr
+    2300008: col_lowerleg_rl
+    2300010: col_lowerleg_rr
+    2300012: col_middleleg_fl
+    2300014: col_middleleg_fr
+    2300016: col_middleleg_rl
+    2300018: col_middleleg_rr
+    2300020: col_upperleg_fl
+    2300022: col_upperleg_fr
+    2300024: col_upperleg_rl
+    2300026: col_upperleg_rr
+    3300000: col_body
+    3300002: col_head
+    3300004: col_lowerleg_fl
+    3300006: col_lowerleg_fr
+    3300008: col_lowerleg_rl
+    3300010: col_lowerleg_rr
+    3300012: col_middleleg_fl
+    3300014: col_middleleg_fr
+    3300016: col_middleleg_rl
+    3300018: col_middleleg_rr
+    3300020: col_upperleg_fl
+    3300022: col_upperleg_fr
+    3300024: col_upperleg_rl
+    3300026: col_upperleg_rr
+    4300000: col_head
+    4300002: col_body
+    4300004: col_middleleg_rl
+    4300006: col_lowerleg_rl
+    4300008: col_upperleg_rl
+    4300010: col_upperleg_fl
+    4300012: col_middleleg_fl
+    4300014: col_lowerleg_fl
+    4300016: col_middleleg_fr
+    4300018: col_lowerleg_fr
+    4300020: col_upperleg_fr
+    4300022: col_lowerleg_rr
+    4300024: col_middleleg_rr
+    4300026: col_upperleg_rr
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
